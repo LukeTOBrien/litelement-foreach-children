@@ -1,0 +1,25 @@
+{
+  "name": "litelement-foreach-children",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "parcel build Components.ts --no-source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeTOBrien/litelement-foreach-children.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeTOBrien/litelement-foreach-children/issues"
+  },
+  "homepage": "https://github.com/LukeTOBrien/litelement-foreach-children#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  }
+}
